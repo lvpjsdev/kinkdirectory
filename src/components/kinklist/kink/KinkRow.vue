@@ -165,7 +165,7 @@ function isPositionApplicable(position: string) {
     <template #choices>
       <!-- General format kinks (single choice) -->
       <template v-if="kink.format === 'general'">
-        <td class="text-center py-2 px-0 sm:px-2 min-w-[40px] sm:min-w-[50px]">
+        <td class="text-center break-words py-2 px-0 sm:px-2 min-w-[40px] sm:min-w-[50px]">
           <div class="flex justify-center items-center">
             <KinkChoice
               :value="getKinkChoice(kink, 'general')"

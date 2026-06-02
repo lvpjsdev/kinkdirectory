@@ -473,10 +473,10 @@ const quizTitle = computed(() => {
 
             <!-- Fixed height tooltip container -->
             <div class="h-12 flex items-center justify-center">
-              <p v-if="getKinkTooltip()" class="text-xs text-gray-600 dark:text-gray-400 overflow-y-auto max-h-full">
+              <p v-if="getKinkTooltip()" class="text-xs text-gray-600 dark:text-gray-400 overflow-y-auto max-h-full w-full max-w-[280px] break-words text-center">
                 {{ getKinkTooltip() }}
               </p>
-              <p v-else class="text-xs text-gray-400 dark:text-gray-600 italic">
+              <p v-else class="text-xs text-gray-400 dark:text-gray-600 italic text-center">
                 {{ t('app.no_description_available') }}
               </p>
             </div>
