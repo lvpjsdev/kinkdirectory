@@ -40,8 +40,8 @@ const twoDaysAgo = Math.floor(Date.now() / 1000) - (2 * 24 * 60 * 60)
 // Active color classes (selected)
 const activeColorClasses = {
   0: 'border-gray-400 dark:border-gray-500 bg-gray-300 dark:bg-gray-600',
-  1: 'border-blue-500 dark:border-blue-400 bg-blue-500 dark:bg-blue-400',
-  2: 'border-green-500 dark:border-green-400 bg-green-500 dark:bg-green-400',
+  1: 'border-green-500 dark:border-green-400 bg-green-500 dark:bg-green-400',
+  2: 'border-lime-500 dark:border-lime-400 bg-lime-500 dark:bg-lime-400',
   3: 'border-yellow-500 dark:border-yellow-400 bg-yellow-500 dark:bg-yellow-400',
   4: 'border-orange-500 dark:border-orange-400 bg-orange-500 dark:bg-orange-400',
   5: 'border-red-500 dark:border-red-400 bg-red-500 dark:bg-red-400',
@@ -51,8 +51,8 @@ const activeColorClasses = {
 // Text color classes
 const textColorClasses = {
   0: 'text-gray-500 dark:text-gray-400',
-  1: 'text-blue-500 dark:text-blue-400',
-  2: 'text-green-500 dark:text-green-400',
+  1: 'text-green-500 dark:text-green-400',
+  2: 'text-lime-500 dark:text-lime-400',
   3: 'text-yellow-500 dark:text-yellow-400',
   4: 'text-orange-500 dark:text-orange-400',
   5: 'text-red-500 dark:text-red-400',

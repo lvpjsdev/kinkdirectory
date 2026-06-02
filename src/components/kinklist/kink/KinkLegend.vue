@@ -49,8 +49,8 @@ const { kinkChoiceOrder, settings } = useSettings()
             <div
               class="w-3 h-3 rounded-full inline-flex items-center justify-center transition-transform duration-200 group-hover:scale-110"
               :class="{
-                'bg-blue-500 border border-blue-600': choice === 1,
-                'bg-green-500 border border-green-600': choice === 2,
+                'bg-green-500 border border-green-600': choice === 1,
+                'bg-lime-500 border border-lime-600': choice === 2,
                 'bg-yellow-500 border border-yellow-600': choice === 3,
                 'bg-orange-500 border border-orange-600': choice === 4,
                 'bg-red-500 border border-red-600': choice === 5,

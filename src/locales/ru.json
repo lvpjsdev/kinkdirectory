@@ -171,10 +171,10 @@
   "choices": {
     "not_entered": "Не заполнено",
     "favorite": "Любимый",
-    "like": "Хороший",
-    "indifferent": "Безразличный",
+    "like": "Нравится",
+    "indifferent": "Неинтересно",
     "maybe": "Может быть",
-    "limit": "Предел",
+    "limit": "Точно нет",
     "curious": "Любопытный"
   },
   "categories": {

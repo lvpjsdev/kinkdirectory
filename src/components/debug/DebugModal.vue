@@ -245,8 +245,8 @@ function formatPosition(position: string): string {
                   <div
                     class="w-5 h-5 rounded-full"
                     :class="{
-                      'bg-blue-500': value === 1,
-                      'bg-green-500': value === 2,
+                      'bg-green-500': value === 1,
+                      'bg-lime-500': value === 2,
                       'bg-yellow-500': value === 3,
                       'bg-orange-500': value === 4,
                       'bg-red-500': value === 5,
@@ -277,8 +277,8 @@ function formatPosition(position: string): string {
                     class="w-10 rounded-t-lg transition-all duration-300"
                     :style="`height: ${Math.max(count / (kinkStats.total || 1) * 100, 5)}%;`"
                     :class="{
-                      'bg-blue-500': Number(rating) === 1,
-                      'bg-green-500': Number(rating) === 2,
+                      'bg-green-500': Number(rating) === 1,
+                      'bg-lime-500': Number(rating) === 2,
                       'bg-yellow-500': Number(rating) === 3,
                       'bg-orange-500': Number(rating) === 4,
                       'bg-red-500': Number(rating) === 5,

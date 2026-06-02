@@ -57,8 +57,8 @@ function handleCancel() {
                   <template v-if="settings.reverseKinkOrder">
                     <!-- 1,2,3,4,5 -->
                     <div class="flex-shrink-0 w-4 h-4 rounded-full border-purple-500 dark:border-purple-400 bg-purple-500 dark:bg-purple-400" />
-                    <div class="flex-shrink-0 w-4 h-4 rounded-full border-blue-500 dark:border-blue-400 bg-blue-500 dark:bg-blue-400" />
                     <div class="flex-shrink-0 w-4 h-4 rounded-full border-green-500 dark:border-green-400 bg-green-500 dark:bg-green-400" />
+                    <div class="flex-shrink-0 w-4 h-4 rounded-full border-lime-500 dark:border-lime-400 bg-lime-500 dark:bg-lime-400" />
                     <div class="flex-shrink-0 w-4 h-4 rounded-full border-yellow-500 dark:border-yellow-400 bg-yellow-500 dark:bg-yellow-400" />
                     <div class="flex-shrink-0 w-4 h-4 rounded-full border-orange-500 dark:border-orange-400 bg-orange-500 dark:bg-orange-400" />
                     <div class="flex-shrink-0 w-4 h-4 rounded-full border-red-500 dark:border-red-400 bg-red-500 dark:bg-red-400" />
@@ -69,8 +69,8 @@ function handleCancel() {
                     <div class="flex-shrink-0 w-4 h-4 rounded-full border-red-500 dark:border-red-400 bg-red-500 dark:bg-red-400" />
                     <div class="flex-shrink-0 w-4 h-4 rounded-full border-orange-500 dark:border-orange-400 bg-orange-500 dark:bg-orange-400" />
                     <div class="flex-shrink-0 w-4 h-4 rounded-full border-yellow-500 dark:border-yellow-400 bg-yellow-500 dark:bg-yellow-400" />
+                    <div class="flex-shrink-0 w-4 h-4 rounded-full border-lime-500 dark:border-lime-400 bg-lime-500 dark:bg-lime-400" />
                     <div class="flex-shrink-0 w-4 h-4 rounded-full border-green-500 dark:border-green-400 bg-green-500 dark:bg-green-400" />
-                    <div class="flex-shrink-0 w-4 h-4 rounded-full border-blue-500 dark:border-blue-400 bg-blue-500 dark:bg-blue-400" />
                   </template>
                 </div>
               </div>
@@ -103,10 +103,10 @@ function handleCancel() {
                   <div class="flex-shrink-0 w-4 h-4 rounded-full border-purple-500 dark:border-purple-400 bg-purple-500 dark:bg-purple-400 flex items-center justify-center">
                     <span v-if="settings.showNumbersInChoices" class="text-[8px] font-bold text-white">6</span>
                   </div>
-                  <div class="flex-shrink-0 w-4 h-4 rounded-full border-blue-500 dark:border-blue-400 bg-blue-500 dark:bg-blue-400 flex items-center justify-center">
+                  <div class="flex-shrink-0 w-4 h-4 rounded-full border-green-500 dark:border-green-400 bg-green-500 dark:bg-green-400 flex items-center justify-center">
                     <span v-if="settings.showNumbersInChoices" class="text-[8px] font-bold text-white">1</span>
                   </div>
-                  <div class="flex-shrink-0 w-4 h-4 rounded-full border-green-500 dark:border-green-400 bg-green-500 dark:bg-green-400 flex items-center justify-center">
+                  <div class="flex-shrink-0 w-4 h-4 rounded-full border-lime-500 dark:border-lime-400 bg-lime-500 dark:bg-lime-400 flex items-center justify-center">
                     <span v-if="settings.showNumbersInChoices" class="text-[8px] font-bold text-white">2</span>
                   </div>
                   <div class="flex-shrink-0 w-4 h-4 rounded-full border-yellow-500 dark:border-yellow-400 bg-yellow-500 dark:bg-yellow-400 flex items-center justify-center">

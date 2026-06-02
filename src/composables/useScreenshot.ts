@@ -45,12 +45,12 @@ export function useScreenshot() {
       const ratingColors: Record<Rating | number, { bg: string, border: string }> = {
         empty: { bg: 'transparent', border: '#E5E7EB' },
         0: { bg: '#9CA3AF', border: '#9CA3AF' }, // Gray-400/500
-        1: { bg: '#3B82F6', border: '#3B82F6' }, // Blue-500/600
-        2: { bg: '#10B981', border: '#10B981' }, // Green-500/600
-        3: { bg: '#FBBF24', border: '#FBBF24' }, // Yellow-500/600
-        4: { bg: '#F97316', border: '#F97316' }, // Orange-500/600
-        5: { bg: '#EF4444', border: '#EF4444' }, // Red-500/600
-        6: { bg: '#9333EA', border: '#9333EA' }, // Purple-500/600
+        1: { bg: '#10B981', border: '#10B981' }, // Green-500/600 (Favorite)
+        2: { bg: '#84CC16', border: '#84CC16' }, // Lime-500/600 (Like)
+        3: { bg: '#FBBF24', border: '#FBBF24' }, // Yellow-500/600 (Indifferent)
+        4: { bg: '#F97316', border: '#F97316' }, // Orange-500/600 (Maybe)
+        5: { bg: '#EF4444', border: '#EF4444' }, // Red-500/600 (Limit)
+        6: { bg: '#9333EA', border: '#9333EA' }, // Purple-500/600 (Curious)
       }
 
       // Add legend at the top

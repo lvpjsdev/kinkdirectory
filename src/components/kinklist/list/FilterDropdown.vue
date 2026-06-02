@@ -42,8 +42,8 @@ function handleClearAll() {
 // Color classes for the choice dots
 const choiceColorClasses = {
   0: 'bg-gray-300 dark:bg-gray-600 border-gray-400 dark:border-gray-500',
-  1: 'bg-blue-500 border-blue-600',
-  2: 'bg-green-500 border-green-600',
+  1: 'bg-green-500 border-green-600',
+  2: 'bg-lime-500 border-lime-600',
   3: 'bg-yellow-500 border-yellow-600',
   4: 'bg-orange-500 border-orange-600',
   5: 'bg-red-500 border-red-600',
