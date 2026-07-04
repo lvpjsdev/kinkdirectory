@@ -3,20 +3,8 @@
   "language": {
     "switch": "Switch to {0}",
     "en": "English",
-    "nl": "Dutch",
-    "es": "Spanish",
-    "fr": "French",
-    "de": "German",
-    "pt": "Portuguese",
-    "it": "Italian",
     "ru": "Russian",
-    "zh": "Chinese",
-    "ja": "Japanese",
-    "ko": "Korean",
-    "ar": "Arabic",
-    "hi": "Hindi",
-    "auto": "Auto (System)",
-    "hu": "Hungarian"
+    "auto": "Auto (System)"
   },
   "theme": {
     "light": "Light",
@@ -260,12 +248,116 @@
     "cross_dressing": {
       "label": "Cross-dressing",
       "tooltip": "Engaging in an RP where one or more characters dress in the clothes of the gender opposite to their own."
+    },
+    "boot_aesthetics": {
+      "label": "boot aesthetics",
+      "tooltip": ""
+    },
+    "boot_licking": {
+      "label": "boot licking",
+      "tooltip": ""
+    },
+    "boot_stepping": {
+      "label": "boot stepping",
+      "tooltip": ""
+    },
+    "branding": {
+      "label": "Branding",
+      "tooltip": ""
+    },
+    "collars_private": {
+      "label": "Collars (private)",
+      "tooltip": ""
+    },
+    "collars_public": {
+      "label": "Collars (public)",
+      "tooltip": ""
+    },
+    "corsets": {
+      "label": "corsets",
+      "tooltip": ""
+    },
+    "costumes": {
+      "label": "costumes",
+      "tooltip": ""
+    },
+    "dress_control_in_private": {
+      "label": "Dress control in private",
+      "tooltip": ""
+    },
+    "dress_control_in_public": {
+      "label": "Dress control in public",
+      "tooltip": ""
+    },
+    "formal_wear": {
+      "label": "formal wear",
+      "tooltip": ""
+    },
+    "gloves": {
+      "label": "gloves",
+      "tooltip": ""
+    },
+    "hairstyle_control": {
+      "label": "Hairstyle control",
+      "tooltip": ""
+    },
+    "jewelry": {
+      "label": "jewelry",
+      "tooltip": ""
+    },
+    "makeup": {
+      "label": "makeup",
+      "tooltip": ""
+    },
+    "military_uniforms": {
+      "label": "military uniforms",
+      "tooltip": ""
+    },
+    "non_piercing_jewelry": {
+      "label": "Non piercing jewelry",
+      "tooltip": ""
+    },
+    "piercings": {
+      "label": "Piercings",
+      "tooltip": ""
+    },
+    "pubic_hairstyle_control": {
+      "label": "Pubic Hairstyle control",
+      "tooltip": ""
+    },
+    "slutty_clothes": {
+      "label": "slutty clothes",
+      "tooltip": ""
+    },
+    "tattoos_permanent": {
+      "label": "Tattoos (permanent)",
+      "tooltip": ""
+    },
+    "tattoos_temporary": {
+      "label": "Tattoos (temporary)",
+      "tooltip": ""
+    },
+    "underwear_panties": {
+      "label": "underwear/panties",
+      "tooltip": ""
+    },
+    "virtual_collar_findmyfriends": {
+      "label": "Virtual Collar: FindmyFriends",
+      "tooltip": ""
+    },
+    "wear_slave_bells": {
+      "label": "Wear Slave Bells",
+      "tooltip": ""
     }
   },
   "general": {
+    "69": {
+      "label": "69",
+      "tooltip": ""
+    },
     "romance_affection": {
       "label": "Romance / Affection",
-      "tooltip": "Displaying or expressing love or strong affection, passion, either during love making or during normal scenes."
+      "tooltip": ""
     },
     "handjob_fingering": {
       "label": "Handjob / Fingering",
@@ -302,6 +394,198 @@
     "ruined": {
       "label": "Ruined",
       "tooltip": "The act of allowing someone to orgasm but stopping stimulation just before climax, resulting in an incomplete or unsatisfying release. This can occur with both male and female partners."
+    },
+    "69ing": {
+      "label": "69ing",
+      "tooltip": ""
+    },
+    "anal_sex": {
+      "label": "Anal sex",
+      "tooltip": "Penetrative anal sex."
+    },
+    "analingus": {
+      "label": "Analingus",
+      "tooltip": ""
+    },
+    "angry_sex_hatefucking": {
+      "label": "angry sex/hatefucking",
+      "tooltip": ""
+    },
+    "blowjob": {
+      "label": "Blowjob",
+      "tooltip": "Oral sex performed on a penis."
+    },
+    "car_sex": {
+      "label": "car sex",
+      "tooltip": ""
+    },
+    "casual_sex_fuck_buddies": {
+      "label": "casual sex/fuck buddies",
+      "tooltip": ""
+    },
+    "cunnilingus": {
+      "label": "Cunnilingus",
+      "tooltip": "Oral sex performed on a vulva."
+    },
+    "deep_throating": {
+      "label": "Deep Throating",
+      "tooltip": ""
+    },
+    "distant_distracted_sex": {
+      "label": "distant/distracted sex",
+      "tooltip": ""
+    },
+    "double_penetration_anal_and_vaginal": {
+      "label": "Double penetration (anal and vaginal)",
+      "tooltip": ""
+    },
+    "double_penetration_oral_and_anal": {
+      "label": "Double penetration (oral and anal)",
+      "tooltip": ""
+    },
+    "double_penetration_oral_and_vaginal": {
+      "label": "Double penetration (oral and vaginal)",
+      "tooltip": ""
+    },
+    "drunk_sex": {
+      "label": "drunk sex",
+      "tooltip": ""
+    },
+    "face_fucking": {
+      "label": "face fucking",
+      "tooltip": ""
+    },
+    "fingering_anal": {
+      "label": "fingering - anal",
+      "tooltip": ""
+    },
+    "fingering_vaginal": {
+      "label": "fingering - vaginal",
+      "tooltip": ""
+    },
+    "fisting_anal": {
+      "label": "fisting - anal",
+      "tooltip": ""
+    },
+    "fisting_vaginal": {
+      "label": "fisting - vaginal",
+      "tooltip": ""
+    },
+    "foot_job": {
+      "label": "Foot job",
+      "tooltip": ""
+    },
+    "gentle_sex": {
+      "label": "gentle sex",
+      "tooltip": ""
+    },
+    "intercrural_sex": {
+      "label": "Intercrural Sex",
+      "tooltip": ""
+    },
+    "joi_si": {
+      "label": "JOI, SI",
+      "tooltip": ""
+    },
+    "masturbation": {
+      "label": "masturbation",
+      "tooltip": ""
+    },
+    "mirror_sex": {
+      "label": "mirror sex",
+      "tooltip": ""
+    },
+    "oral_sex_fellatio_cunnilingus": {
+      "label": "Oral Sex (Fellatio / Cunnilingus)",
+      "tooltip": ""
+    },
+    "phone_sex": {
+      "label": "Phone sex",
+      "tooltip": ""
+    },
+    "pool_bathtub_sex": {
+      "label": "pool/bathtub sex",
+      "tooltip": ""
+    },
+    "public_sex": {
+      "label": "public sex",
+      "tooltip": ""
+    },
+    "rough_oral_throatfucking_facesitting": {
+      "label": "Rough Oral, throatfucking / facesitting",
+      "tooltip": ""
+    },
+    "rough_sex": {
+      "label": "rough sex",
+      "tooltip": ""
+    },
+    "rough_sex_primal": {
+      "label": "Rough Sex / Primal",
+      "tooltip": ""
+    },
+    "safe_sex": {
+      "label": "safe sex",
+      "tooltip": ""
+    },
+    "scissoring": {
+      "label": "scissoring",
+      "tooltip": ""
+    },
+    "sex_against_a_wall": {
+      "label": "sex against a wall",
+      "tooltip": ""
+    },
+    "sexting": {
+      "label": "sexting",
+      "tooltip": ""
+    },
+    "shower_sex": {
+      "label": "shower sex",
+      "tooltip": ""
+    },
+    "sleepy_sex": {
+      "label": "sleepy sex",
+      "tooltip": ""
+    },
+    "soaking_cockwarming": {
+      "label": "Soaking / Cockwarming",
+      "tooltip": ""
+    },
+    "solo_masturbation": {
+      "label": "Solo Masturbation",
+      "tooltip": ""
+    },
+    "teabagging": {
+      "label": "Teabagging",
+      "tooltip": ""
+    },
+    "threesome_multi_partner": {
+      "label": "threesome/multi-partner",
+      "tooltip": ""
+    },
+    "titfucking": {
+      "label": "Titfucking",
+      "tooltip": ""
+    },
+    "toys_dildos": {
+      "label": "toys - dildos",
+      "tooltip": ""
+    },
+    "toys_plugs": {
+      "label": "toys - plugs",
+      "tooltip": ""
+    },
+    "toys_vibrators": {
+      "label": "toys - vibrators",
+      "tooltip": ""
+    },
+    "triple_vaginal_oral_and_anal": {
+      "label": "Triple (vaginal, oral and anal)",
+      "tooltip": ""
+    },
+    "vaginal_sex": {
+      "label": "Vaginal Sex",
+      "tooltip": ""
     }
   },
   "ass_play": {
@@ -443,21 +727,189 @@
       "label": "Sleeping bag",
       "tooltip": "A special tight bag in which the entire body is enclosed, similar to mummification."
     },
-    "dom_only_for_sub": {
-      "label": "Dom-only for sub",
-      "tooltip": "Example: Dominant can only answer for their submissive, not for themselves."
+    "arm_and_leg_sleeves_armbinders": {
+      "label": "Arm & leg sleeves (armbinders)",
+      "tooltip": ""
     },
-    "sub_self_only": {
-      "label": "Sub self only",
-      "tooltip": "Example: Submissive can only answer for themselves, not for their dominant."
+    "bondage_multi_day": {
+      "label": "Bondage (multi-day)",
+      "tooltip": ""
     },
-    "dom_answer_for_both": {
-      "label": "Dom answers both",
-      "tooltip": "Example: Dominant answers for both themselves and their submissive."
+    "bondage_public_under_clothing": {
+      "label": "Bondage (public, under clothing)",
+      "tooltip": ""
     },
-    "sub_only_for_dom": {
-      "label": "Sub only for dom",
-      "tooltip": "Example: Submissive can only answer for their dominant, not for themselves."
+    "collar_choke": {
+      "label": "collar - choke",
+      "tooltip": ""
+    },
+    "collar_dog": {
+      "label": "collar - dog",
+      "tooltip": ""
+    },
+    "collar_prong": {
+      "label": "collar - prong",
+      "tooltip": ""
+    },
+    "collar_shock": {
+      "label": "collar - shock",
+      "tooltip": ""
+    },
+    "collaring_private": {
+      "label": "collaring - private",
+      "tooltip": ""
+    },
+    "collaring_public": {
+      "label": "collaring - public",
+      "tooltip": ""
+    },
+    "cuffs_leather": {
+      "label": "Cuffs (leather)",
+      "tooltip": ""
+    },
+    "cuffs_metal": {
+      "label": "Cuffs (metal)",
+      "tooltip": ""
+    },
+    "ear_plugs": {
+      "label": "Ear Plugs",
+      "tooltip": ""
+    },
+    "full_head_hoods": {
+      "label": "Full head hoods",
+      "tooltip": ""
+    },
+    "gag": {
+      "label": "Gag",
+      "tooltip": ""
+    },
+    "gag_ball_bit": {
+      "label": "gag - ball/bit",
+      "tooltip": ""
+    },
+    "gag_medical_dental": {
+      "label": "gag - medical/dental",
+      "tooltip": ""
+    },
+    "gag_phallic": {
+      "label": "gag - phallic",
+      "tooltip": ""
+    },
+    "gag_ring_spider": {
+      "label": "gag - ring/spider",
+      "tooltip": ""
+    },
+    "gags_ball": {
+      "label": "Gags (ball)",
+      "tooltip": ""
+    },
+    "gags_cloth": {
+      "label": "Gags (cloth)",
+      "tooltip": ""
+    },
+    "gags_panties": {
+      "label": "Gags (panties)",
+      "tooltip": ""
+    },
+    "gags_phallic": {
+      "label": "Gags (phallic)",
+      "tooltip": ""
+    },
+    "gags_ring": {
+      "label": "Gags (ring)",
+      "tooltip": ""
+    },
+    "gags_rubber": {
+      "label": "Gags (rubber)",
+      "tooltip": ""
+    },
+    "gags_tape": {
+      "label": "Gags (tape)",
+      "tooltip": ""
+    },
+    "hand_over_mouth": {
+      "label": "Hand over mouth",
+      "tooltip": ""
+    },
+    "handcuffs": {
+      "label": "handcuffs",
+      "tooltip": ""
+    },
+    "harnesses": {
+      "label": "harnesses",
+      "tooltip": ""
+    },
+    "harnesses_leather": {
+      "label": "Harnesses (leather)",
+      "tooltip": ""
+    },
+    "harnesses_rope": {
+      "label": "Harnesses (rope)",
+      "tooltip": ""
+    },
+    "intricate_japanese_rope_bondage": {
+      "label": "Intricate (Japanese) rope bondage",
+      "tooltip": ""
+    },
+    "leashes": {
+      "label": "leashes",
+      "tooltip": ""
+    },
+    "manacles_and_irons": {
+      "label": "Manacles & Irons",
+      "tooltip": ""
+    },
+    "mouth_bits": {
+      "label": "Mouth bits",
+      "tooltip": ""
+    },
+    "mummification_saran_wrapping": {
+      "label": "Mummification / saran wrapping",
+      "tooltip": ""
+    },
+    "predicament_bondage": {
+      "label": "Predicament Bondage",
+      "tooltip": ""
+    },
+    "rope_body_harness": {
+      "label": "Rope body harness",
+      "tooltip": ""
+    },
+    "ropes": {
+      "label": "Ropes",
+      "tooltip": ""
+    },
+    "shibari_rope_art": {
+      "label": "shibari/rope art",
+      "tooltip": ""
+    },
+    "silk_scarves": {
+      "label": "Silk Scarves",
+      "tooltip": ""
+    },
+    "spreader_bar": {
+      "label": "spreader bar",
+      "tooltip": ""
+    },
+    "strained_position_bondage": {
+      "label": "Strained Position Bondage",
+      "tooltip": ""
+    },
+    "suspension_horizontal": {
+      "label": "Suspension (horizontal)",
+      "tooltip": ""
+    },
+    "suspension_inverted": {
+      "label": "Suspension (inverted)",
+      "tooltip": ""
+    },
+    "suspension_upright": {
+      "label": "Suspension (upright)",
+      "tooltip": ""
+    },
+    "vacuum_bed_cube": {
+      "label": "Vacuum Bed / Cube",
+      "tooltip": ""
     }
   },
   "toys": {
@@ -476,6 +928,70 @@
     "sounding": {
       "label": "Sounding",
       "tooltip": "The act of inserting metal rods into a male or female's urethra, or receiving such actions; technically implies rods that resonate and/or vibrate in response to a form of stimulation, but does not necessarily mean so."
+    },
+    "anal_beads": {
+      "label": "Anal beads",
+      "tooltip": ""
+    },
+    "anal_hook": {
+      "label": "Anal hook",
+      "tooltip": ""
+    },
+    "anal_plug_public_under_clothes": {
+      "label": "Anal plug (public, under clothes)",
+      "tooltip": ""
+    },
+    "anal_plugs_large": {
+      "label": "Anal plugs (large)",
+      "tooltip": ""
+    },
+    "anal_plugs_small": {
+      "label": "Anal plugs (small)",
+      "tooltip": ""
+    },
+    "anal_vibrator": {
+      "label": "Anal Vibrator",
+      "tooltip": ""
+    },
+    "ben_wa_balls": {
+      "label": "Ben Wa Balls",
+      "tooltip": ""
+    },
+    "cockring": {
+      "label": "Cockring",
+      "tooltip": ""
+    },
+    "dildo_anal": {
+      "label": "Dildo - anal",
+      "tooltip": ""
+    },
+    "dildo_vaginal": {
+      "label": "Dildo - vaginal",
+      "tooltip": ""
+    },
+    "fucking_machine": {
+      "label": "Fucking Machine",
+      "tooltip": ""
+    },
+    "penis_sleeves": {
+      "label": "Penis Sleeves",
+      "tooltip": ""
+    },
+    "remote_controlled_vibrator": {
+      "label": "Remote Controlled Vibrator",
+      "tooltip": ""
+    },
+    "sybian": {
+      "label": "Sybian",
+      "tooltip": ""
+    },
+    "tail_plug": {
+      "label": "Tail plug",
+      "tooltip": ""
+    },
+    "vibrator_on_genitals": {
+      "label": "Vibrator on genitals",
+      "tooltip": ""
     }
   },
   "domination": {
@@ -513,7 +1029,7 @@
     },
     "orgasm_control": {
       "label": "Orgasm control",
-      "tooltip": "Refers to the dominant being in control of when the submissive achieves orgasm, either by physical means or by command; typically involves domination and/or excessive teasing and edging; orgasm may be completely denied."
+      "tooltip": "Controlling when or whether a partner may orgasm."
     },
     "orgasm_denial": {
       "label": "Orgasm denial",
@@ -529,7 +1045,7 @@
     },
     "power_exchange": {
       "label": "Power exchange",
-      "tooltip": "A relationship with service at the core."
+      "tooltip": ""
     },
     "verbal_praise": {
       "label": "Verbal praise",
@@ -538,6 +1054,286 @@
     "physical_praise": {
       "label": "Physical praise",
       "tooltip": "The use of touching, hugging, caressing, or other physical gestures to show appreciation and approval to a submissive."
+    },
+    "aftercare": {
+      "label": "aftercare",
+      "tooltip": ""
+    },
+    "asking_permission": {
+      "label": "Asking Permission",
+      "tooltip": ""
+    },
+    "assign_daily_tasks": {
+      "label": "Assign Daily Tasks",
+      "tooltip": ""
+    },
+    "baby_girl_boy": {
+      "label": "baby girl/boy",
+      "tooltip": ""
+    },
+    "bad_girl_boy": {
+      "label": "bad girl/boy",
+      "tooltip": ""
+    },
+    "bitch": {
+      "label": "bitch",
+      "tooltip": ""
+    },
+    "brat_taming": {
+      "label": "brat taming",
+      "tooltip": ""
+    },
+    "can_i_please": {
+      "label": "Can I please ____ ?",
+      "tooltip": ""
+    },
+    "choose_sub_s_food": {
+      "label": "Choose sub's food",
+      "tooltip": ""
+    },
+    "consensual_non_consent_cnc": {
+      "label": "consensual non-consent (CNC)",
+      "tooltip": ""
+    },
+    "cunt": {
+      "label": "cunt",
+      "tooltip": ""
+    },
+    "daddy_mommy": {
+      "label": "Daddy/Mommy",
+      "tooltip": ""
+    },
+    "depraved": {
+      "label": "depraved",
+      "tooltip": ""
+    },
+    "dirty_little": {
+      "label": "dirty little ____",
+      "tooltip": ""
+    },
+    "dom_female": {
+      "label": "dom female",
+      "tooltip": ""
+    },
+    "dom_male": {
+      "label": "dom male",
+      "tooltip": ""
+    },
+    "dominant_submissive": {
+      "label": "Dominant / Submissive",
+      "tooltip": ""
+    },
+    "dumb_stupid": {
+      "label": "dumb / stupid",
+      "tooltip": ""
+    },
+    "eye_contact_restrictions": {
+      "label": "Eye contact restrictions",
+      "tooltip": ""
+    },
+    "fat": {
+      "label": "fat",
+      "tooltip": ""
+    },
+    "financial_domination": {
+      "label": "Financial Domination",
+      "tooltip": ""
+    },
+    "following_orders": {
+      "label": "Following orders",
+      "tooltip": ""
+    },
+    "forced_orgasms": {
+      "label": "Forced orgasms",
+      "tooltip": ""
+    },
+    "forcing_exercise": {
+      "label": "Forcing exercise",
+      "tooltip": ""
+    },
+    "forcing_masturbation": {
+      "label": "Forcing masturbation",
+      "tooltip": ""
+    },
+    "forcing_servitude_chores": {
+      "label": "Forcing servitude (chores)",
+      "tooltip": ""
+    },
+    "forcing_to_learn_skills": {
+      "label": "Forcing to Learn Skills",
+      "tooltip": ""
+    },
+    "free_use": {
+      "label": "free use",
+      "tooltip": ""
+    },
+    "genital_worship": {
+      "label": "Genital Worship",
+      "tooltip": ""
+    },
+    "god_goddess": {
+      "label": "God/Goddess",
+      "tooltip": ""
+    },
+    "good_girl_boy": {
+      "label": "good girl/boy",
+      "tooltip": ""
+    },
+    "keep_a_diary": {
+      "label": "Keep a Diary",
+      "tooltip": ""
+    },
+    "king_queen": {
+      "label": "King/Queen",
+      "tooltip": ""
+    },
+    "kink_negotiations": {
+      "label": "kink negotiations",
+      "tooltip": ""
+    },
+    "kitten": {
+      "label": "kitten",
+      "tooltip": ""
+    },
+    "kneeling": {
+      "label": "Kneeling",
+      "tooltip": ""
+    },
+    "learn_postures": {
+      "label": "Learn postures",
+      "tooltip": ""
+    },
+    "little_girl_boy": {
+      "label": "little girl/boy",
+      "tooltip": ""
+    },
+    "lord_lady": {
+      "label": "Lord/Lady",
+      "tooltip": ""
+    },
+    "massage": {
+      "label": "Massage",
+      "tooltip": ""
+    },
+    "master_mistress": {
+      "label": "Master/Mistress",
+      "tooltip": ""
+    },
+    "master_slave": {
+      "label": "master/slave",
+      "tooltip": ""
+    },
+    "mine": {
+      "label": "Mine",
+      "tooltip": ""
+    },
+    "my_little": {
+      "label": "my little ____",
+      "tooltip": ""
+    },
+    "naughty_little": {
+      "label": "naughty little ____",
+      "tooltip": ""
+    },
+    "pathetic": {
+      "label": "pathetic",
+      "tooltip": ""
+    },
+    "perform_erotic_dance": {
+      "label": "Perform Erotic Dance",
+      "tooltip": ""
+    },
+    "pet": {
+      "label": "pet",
+      "tooltip": ""
+    },
+    "physical_contact_restriction": {
+      "label": "Physical contact restriction",
+      "tooltip": ""
+    },
+    "princess": {
+      "label": "princess",
+      "tooltip": ""
+    },
+    "punishment": {
+      "label": "punishment",
+      "tooltip": ""
+    },
+    "requiring_rituals": {
+      "label": "Requiring Rituals",
+      "tooltip": ""
+    },
+    "restrictive_rules_on_behaviour": {
+      "label": "Restrictive rules on behaviour",
+      "tooltip": ""
+    },
+    "sadism_masochism": {
+      "label": "sadism/masochism",
+      "tooltip": ""
+    },
+    "safewords": {
+      "label": "safewords",
+      "tooltip": ""
+    },
+    "sir_ma_am_miss": {
+      "label": "Sir/Ma'am/Miss",
+      "tooltip": ""
+    },
+    "slave_pet_training": {
+      "label": "slave/pet training",
+      "tooltip": ""
+    },
+    "slut": {
+      "label": "slut",
+      "tooltip": ""
+    },
+    "speech_restriction_when_what_to_whom": {
+      "label": "Speech restriction (when, what, to whom)",
+      "tooltip": ""
+    },
+    "standing_in_corner": {
+      "label": "Standing in corner",
+      "tooltip": ""
+    },
+    "submissive_female": {
+      "label": "submissive female",
+      "tooltip": ""
+    },
+    "submissive_male": {
+      "label": "submissive male",
+      "tooltip": ""
+    },
+    "thank_you_for": {
+      "label": "Thank you for ____ ?",
+      "tooltip": ""
+    },
+    "toy": {
+      "label": "toy",
+      "tooltip": ""
+    },
+    "useless_worthless": {
+      "label": "useless/worthless",
+      "tooltip": ""
+    },
+    "washroom_restriction": {
+      "label": "Washroom restriction",
+      "tooltip": ""
+    },
+    "weight_control": {
+      "label": "Weight Control",
+      "tooltip": ""
+    },
+    "who_owns_you": {
+      "label": "Who owns you?",
+      "tooltip": ""
+    },
+    "whore": {
+      "label": "whore",
+      "tooltip": ""
+    },
+    "whose_body_part_is_this": {
+      "label": "Whose (body part) is this?",
+      "tooltip": ""
     }
   },
   "no_consent": {
@@ -568,6 +1364,206 @@
     "sleep_play": {
       "label": "Sleep play",
       "tooltip": "Engaging in sexual acts with an unconscious/sleeping partner (somnophilia)."
+    },
+    "abuse_emotional": {
+      "label": "abuse - emotional",
+      "tooltip": ""
+    },
+    "abuse_physical": {
+      "label": "abuse - physical",
+      "tooltip": ""
+    },
+    "abuse_verbal": {
+      "label": "abuse - verbal",
+      "tooltip": ""
+    },
+    "ageplay": {
+      "label": "Ageplay",
+      "tooltip": ""
+    },
+    "brainwashing": {
+      "label": "brainwashing",
+      "tooltip": ""
+    },
+    "codependency": {
+      "label": "codependency",
+      "tooltip": ""
+    },
+    "coercion_blackmail": {
+      "label": "coercion/blackmail",
+      "tooltip": ""
+    },
+    "conditioning": {
+      "label": "conditioning",
+      "tooltip": ""
+    },
+    "dehumanization": {
+      "label": "dehumanization",
+      "tooltip": ""
+    },
+    "domestic_violence": {
+      "label": "domestic violence",
+      "tooltip": ""
+    },
+    "drugging": {
+      "label": "drugging",
+      "tooltip": ""
+    },
+    "drugs_alcohol": {
+      "label": "Drugs / alcohol",
+      "tooltip": ""
+    },
+    "forced_crossdressing": {
+      "label": "forced crossdressing",
+      "tooltip": ""
+    },
+    "forced_enema": {
+      "label": "forced enema",
+      "tooltip": ""
+    },
+    "forced_feeding": {
+      "label": "forced feeding",
+      "tooltip": ""
+    },
+    "forced_infantilism": {
+      "label": "forced infantilism",
+      "tooltip": ""
+    },
+    "forced_masturbation": {
+      "label": "forced masturbation",
+      "tooltip": ""
+    },
+    "forced_pregnancy": {
+      "label": "forced pregnancy",
+      "tooltip": ""
+    },
+    "forced_servitude": {
+      "label": "forced servitude",
+      "tooltip": ""
+    },
+    "forced_verbal_feminization": {
+      "label": "forced verbal feminization",
+      "tooltip": ""
+    },
+    "fuck_or_die": {
+      "label": "fuck or die",
+      "tooltip": ""
+    },
+    "gang_rape": {
+      "label": "gang rape",
+      "tooltip": ""
+    },
+    "gaslighting": {
+      "label": "gaslighting",
+      "tooltip": ""
+    },
+    "grooming_manipulation": {
+      "label": "grooming/manipulation",
+      "tooltip": ""
+    },
+    "hypnotism": {
+      "label": "hypnotism",
+      "tooltip": ""
+    },
+    "interracial_raceplay": {
+      "label": "Interracial / Raceplay",
+      "tooltip": ""
+    },
+    "issues_addiction": {
+      "label": "issues - addiction",
+      "tooltip": ""
+    },
+    "issues_body_image": {
+      "label": "issues - body image",
+      "tooltip": ""
+    },
+    "issues_food": {
+      "label": "issues - food",
+      "tooltip": ""
+    },
+    "issues_mental_health": {
+      "label": "issues - mental health",
+      "tooltip": ""
+    },
+    "issues_self_esteem": {
+      "label": "issues - self-esteem",
+      "tooltip": ""
+    },
+    "kidnapping_abduction": {
+      "label": "kidnapping/abduction",
+      "tooltip": ""
+    },
+    "lima_syndrome": {
+      "label": "lima syndrome",
+      "tooltip": ""
+    },
+    "mind_break": {
+      "label": "mind break",
+      "tooltip": ""
+    },
+    "mind_control": {
+      "label": "mind control",
+      "tooltip": ""
+    },
+    "mutual_non_con": {
+      "label": "mutual non-con",
+      "tooltip": ""
+    },
+    "non_con_body_mod_hair_cutting": {
+      "label": "non-con body mod - hair cutting",
+      "tooltip": ""
+    },
+    "non_con_body_mod_piercing": {
+      "label": "non-con body mod - piercing",
+      "tooltip": ""
+    },
+    "non_con_body_mod_tattoos": {
+      "label": "non-con body mod - tattoos",
+      "tooltip": ""
+    },
+    "non_con_bondage": {
+      "label": "non-con bondage",
+      "tooltip": ""
+    },
+    "non_con_somnophilia": {
+      "label": "non-con somnophilia",
+      "tooltip": ""
+    },
+    "non_con_touching": {
+      "label": "non-con touching",
+      "tooltip": ""
+    },
+    "power_imbalance": {
+      "label": "power imbalance",
+      "tooltip": ""
+    },
+    "rape_victim_female": {
+      "label": "rape victim female",
+      "tooltip": ""
+    },
+    "rape_victim_male": {
+      "label": "rape victim male",
+      "tooltip": ""
+    },
+    "rape_with_an_object": {
+      "label": "rape with an object",
+      "tooltip": ""
+    },
+    "rapist_female": {
+      "label": "rapist female",
+      "tooltip": ""
+    },
+    "rapist_male": {
+      "label": "rapist male",
+      "tooltip": ""
+    },
+    "stockholm_syndrome": {
+      "label": "stockholm syndrome",
+      "tooltip": ""
+    },
+    "stuck_and_fucked_kabeshiri": {
+      "label": "stuck & fucked/kabeshiri",
+      "tooltip": ""
     }
   },
   "taboo": {
@@ -678,6 +1674,126 @@
     "cum_on_face": {
       "label": "Cum on face",
       "tooltip": "The act of ejaculating on a partner's face, sometimes as a form of dominance or humiliation."
+    },
+    "ass_to_mouth": {
+      "label": "Ass to mouth",
+      "tooltip": ""
+    },
+    "bladder_desperation": {
+      "label": "bladder desperation",
+      "tooltip": ""
+    },
+    "bukkake": {
+      "label": "bukkake",
+      "tooltip": ""
+    },
+    "cum_squirt_on_partner": {
+      "label": "Cum / squirt on partner",
+      "tooltip": ""
+    },
+    "cutting_blood_play": {
+      "label": "Cutting (blood play)",
+      "tooltip": ""
+    },
+    "drool_drooling": {
+      "label": "drool/drooling",
+      "tooltip": ""
+    },
+    "felching": {
+      "label": "felching",
+      "tooltip": ""
+    },
+    "flatulence": {
+      "label": "flatulence",
+      "tooltip": ""
+    },
+    "forcing_to_swallow_urine": {
+      "label": "Forcing to Swallow Urine",
+      "tooltip": ""
+    },
+    "lactation_female": {
+      "label": "lactation - female",
+      "tooltip": ""
+    },
+    "lactation_male": {
+      "label": "lactation - male",
+      "tooltip": ""
+    },
+    "menstrual_blood": {
+      "label": "menstrual blood",
+      "tooltip": ""
+    },
+    "oral_cleanup_of_dom_after_sex": {
+      "label": "Oral cleanup of Dom after sex",
+      "tooltip": ""
+    },
+    "oral_cleanup_of_sub_after_sex": {
+      "label": "Oral cleanup of sub after sex",
+      "tooltip": ""
+    },
+    "scat_feces": {
+      "label": "Scat / Feces",
+      "tooltip": ""
+    },
+    "snot_mucus": {
+      "label": "snot/mucus",
+      "tooltip": ""
+    },
+    "snowballing_cum_swapping": {
+      "label": "snowballing (cum swapping)",
+      "tooltip": ""
+    },
+    "spit_as_lube": {
+      "label": "spit as lube",
+      "tooltip": ""
+    },
+    "spit_on_sub": {
+      "label": "Spit on sub",
+      "tooltip": ""
+    },
+    "spitting_in_mouth": {
+      "label": "spitting in mouth",
+      "tooltip": ""
+    },
+    "squirting": {
+      "label": "Squirting",
+      "tooltip": ""
+    },
+    "swallowing_blood": {
+      "label": "swallowing blood",
+      "tooltip": ""
+    },
+    "swallowing_cum": {
+      "label": "swallowing cum",
+      "tooltip": ""
+    },
+    "swallowing_girlcum": {
+      "label": "Swallowing girlcum",
+      "tooltip": ""
+    },
+    "swallowing_semen": {
+      "label": "Swallowing semen",
+      "tooltip": ""
+    },
+    "swallowing_urine": {
+      "label": "swallowing urine",
+      "tooltip": ""
+    },
+    "sweat": {
+      "label": "sweat",
+      "tooltip": ""
+    },
+    "tears_crying": {
+      "label": "tears/crying",
+      "tooltip": ""
+    },
+    "urinating_on_sub": {
+      "label": "Urinating on sub",
+      "tooltip": ""
+    },
+    "vomit_vomiting": {
+      "label": "vomit/vomiting",
+      "tooltip": ""
     }
   },
   "degradation": {
@@ -692,6 +1808,66 @@
     "humiliation": {
       "label": "Humiliation",
       "tooltip": "Engaging in an RP in which one character will be embarrassed, typically extremely and/or frequently, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment; typically a more intense form of degradation."
+    },
+    "body_part_size_humiliation": {
+      "label": "Body part size humiliation",
+      "tooltip": ""
+    },
+    "body_writing": {
+      "label": "Body Writing",
+      "tooltip": ""
+    },
+    "examinations": {
+      "label": "Examinations",
+      "tooltip": ""
+    },
+    "feminization_sissification": {
+      "label": "Feminization/Sissification",
+      "tooltip": ""
+    },
+    "humiliation_private_1": {
+      "label": "Humiliation (private)",
+      "tooltip": ""
+    },
+    "humiliation_public_1": {
+      "label": "Humiliation (public)",
+      "tooltip": ""
+    },
+    "objectification_art_furniture": {
+      "label": "Objectification (art, furniture...)",
+      "tooltip": ""
+    },
+    "pegging": {
+      "label": "Pegging",
+      "tooltip": ""
+    },
+    "public_exposure": {
+      "label": "Public Exposure",
+      "tooltip": ""
+    },
+    "sexy_clothing_private": {
+      "label": "Sexy clothing (private)",
+      "tooltip": ""
+    },
+    "sexy_clothing_public": {
+      "label": "Sexy clothing (public)",
+      "tooltip": ""
+    },
+    "spitting": {
+      "label": "Spitting",
+      "tooltip": ""
+    },
+    "unusual_masturbation": {
+      "label": "Unusual masturbation",
+      "tooltip": ""
+    },
+    "verbal_humiliation": {
+      "label": "Verbal humiliation",
+      "tooltip": ""
+    },
+    "washing_mouth_out_with_soap": {
+      "label": "Washing mouth out with soap",
+      "tooltip": ""
     }
   },
   "touch_stimulation": {
@@ -731,9 +1907,53 @@
       "label": "Feather play",
       "tooltip": "The use of feathers for light, soft touches that can tickle or provide a sensual sensation."
     },
-    "pinwheel": {
-      "label": "Pinwheel",
-      "tooltip": "A sharp, wheel-like instrument (Wartenberg wheel) that rolls over the skin, causing a stinging sensation without breaking the skin."
+    "abrasion": {
+      "label": "Abrasion",
+      "tooltip": ""
+    },
+    "chemical_play_e_g_icy_hot": {
+      "label": "Chemical Play (e.g. icy-hot)",
+      "tooltip": ""
+    },
+    "clothespins": {
+      "label": "Clothespins",
+      "tooltip": ""
+    },
+    "e_stim": {
+      "label": "E-stim",
+      "tooltip": ""
+    },
+    "feathers": {
+      "label": "Feathers",
+      "tooltip": ""
+    },
+    "figging": {
+      "label": "Figging",
+      "tooltip": ""
+    },
+    "fur": {
+      "label": "Fur",
+      "tooltip": ""
+    },
+    "ice_cubes": {
+      "label": "Ice Cubes",
+      "tooltip": ""
+    },
+    "sounding_urethral": {
+      "label": "Sounding (urethral)",
+      "tooltip": ""
+    },
+    "wartenburg_wheel": {
+      "label": "Wartenburg Wheel",
+      "tooltip": ""
+    },
+    "wax_play": {
+      "label": "Wax Play",
+      "tooltip": ""
+    },
+    "zapping_e_g_electric_fly_swatter": {
+      "label": "Zapping (e.g. electric fly swatter)",
+      "tooltip": ""
     }
   },
   "misc_fetish": {
@@ -769,9 +1989,617 @@
       "label": "Shaving",
       "tooltip": "Removing body hair in a sexual context."
     },
-    "double_penetration": {
-      "label": "Double penetration",
-      "tooltip": "Penetration of 2 dildos or penises at the same time."
+    "age_difference": {
+      "label": "age difference",
+      "tooltip": ""
+    },
+    "anal_gaping": {
+      "label": "anal gaping",
+      "tooltip": ""
+    },
+    "anal_hooks": {
+      "label": "anal hooks",
+      "tooltip": ""
+    },
+    "anal_prolapse": {
+      "label": "anal prolapse",
+      "tooltip": ""
+    },
+    "aphrodisiacs": {
+      "label": "aphrodisiacs",
+      "tooltip": ""
+    },
+    "armpits": {
+      "label": "armpits",
+      "tooltip": ""
+    },
+    "barebacking": {
+      "label": "barebacking",
+      "tooltip": ""
+    },
+    "bathroom_permission": {
+      "label": "bathroom permission",
+      "tooltip": ""
+    },
+    "belly_throat_bulge": {
+      "label": "belly/throat bulge",
+      "tooltip": ""
+    },
+    "body_hair": {
+      "label": "body hair",
+      "tooltip": ""
+    },
+    "body_worship_ass": {
+      "label": "body worship - ass",
+      "tooltip": ""
+    },
+    "body_worship_breast": {
+      "label": "body worship - breast",
+      "tooltip": ""
+    },
+    "body_worship_cock": {
+      "label": "body worship - cock",
+      "tooltip": ""
+    },
+    "boot_heel_worship": {
+      "label": "Boot / Heel Worship",
+      "tooltip": ""
+    },
+    "breeding_impregnation": {
+      "label": "breeding/impregnation",
+      "tooltip": ""
+    },
+    "chastity_devices": {
+      "label": "chastity devices",
+      "tooltip": ""
+    },
+    "claiming_marking": {
+      "label": "claiming/marking",
+      "tooltip": ""
+    },
+    "clothed_dom_nude_sub": {
+      "label": "Clothed Dom Nude Sub",
+      "tooltip": ""
+    },
+    "cock_milking": {
+      "label": "cock milking",
+      "tooltip": ""
+    },
+    "coming_in_pants": {
+      "label": "coming in pants",
+      "tooltip": ""
+    },
+    "coming_on_command": {
+      "label": "coming on command",
+      "tooltip": ""
+    },
+    "coming_untouched": {
+      "label": "coming untouched",
+      "tooltip": ""
+    },
+    "competence_kink": {
+      "label": "competence kink",
+      "tooltip": ""
+    },
+    "consensual_somnophilia": {
+      "label": "consensual somnophilia",
+      "tooltip": ""
+    },
+    "cuddling": {
+      "label": "Cuddling",
+      "tooltip": ""
+    },
+    "daddy_kink": {
+      "label": "daddy kink",
+      "tooltip": ""
+    },
+    "degradation": {
+      "label": "degradation",
+      "tooltip": ""
+    },
+    "dirty_talk": {
+      "label": "dirty talk",
+      "tooltip": ""
+    },
+    "drug_use": {
+      "label": "drug use",
+      "tooltip": ""
+    },
+    "enemas": {
+      "label": "Enemas",
+      "tooltip": ""
+    },
+    "erotic_dancing": {
+      "label": "erotic dancing",
+      "tooltip": ""
+    },
+    "exhaustion": {
+      "label": "exhaustion",
+      "tooltip": ""
+    },
+    "exhibitionism_friends": {
+      "label": "Exhibitionism (friends)",
+      "tooltip": ""
+    },
+    "exhibitionism_strangers": {
+      "label": "Exhibitionism (strangers)",
+      "tooltip": ""
+    },
+    "feeding_stuffing": {
+      "label": "feeding/stuffing",
+      "tooltip": ""
+    },
+    "feet": {
+      "label": "feet",
+      "tooltip": ""
+    },
+    "fighting_wrestling": {
+      "label": "fighting/wrestling",
+      "tooltip": ""
+    },
+    "fingers_in_mouth": {
+      "label": "fingers in mouth",
+      "tooltip": ""
+    },
+    "first_time_with_partner": {
+      "label": "first time with partner",
+      "tooltip": ""
+    },
+    "food_play": {
+      "label": "food play",
+      "tooltip": ""
+    },
+    "foot_worship": {
+      "label": "Foot Worship",
+      "tooltip": ""
+    },
+    "footjob": {
+      "label": "footjob",
+      "tooltip": ""
+    },
+    "force_nudity_around_others": {
+      "label": "Force nudity (around others)",
+      "tooltip": ""
+    },
+    "force_nudity_private": {
+      "label": "Force nudity (private)",
+      "tooltip": ""
+    },
+    "force_sub_to_wear_chastity_device": {
+      "label": "Force sub to Wear Chastity Device",
+      "tooltip": ""
+    },
+    "frottage_grinding": {
+      "label": "frottage/grinding",
+      "tooltip": ""
+    },
+    "gunplay": {
+      "label": "gunplay",
+      "tooltip": ""
+    },
+    "guns_weapons": {
+      "label": "guns/weapons",
+      "tooltip": ""
+    },
+    "hair_brushing_braiding": {
+      "label": "hair brushing/braiding",
+      "tooltip": ""
+    },
+    "hair_cutting": {
+      "label": "hair cutting",
+      "tooltip": ""
+    },
+    "hand_feeding": {
+      "label": "hand feeding",
+      "tooltip": ""
+    },
+    "harem": {
+      "label": "harem",
+      "tooltip": ""
+    },
+    "harem_reverse_harem": {
+      "label": "Harem / Reverse Harem",
+      "tooltip": ""
+    },
+    "hickies": {
+      "label": "hickies",
+      "tooltip": ""
+    },
+    "human_furniture": {
+      "label": "human furniture",
+      "tooltip": ""
+    },
+    "humiliation_private": {
+      "label": "humiliation - private",
+      "tooltip": ""
+    },
+    "humiliation_public": {
+      "label": "humiliation - public",
+      "tooltip": ""
+    },
+    "infantilism_diapers": {
+      "label": "Infantilism (diapers)",
+      "tooltip": ""
+    },
+    "infidelity_cheating": {
+      "label": "infidelity/cheating",
+      "tooltip": ""
+    },
+    "jealousy": {
+      "label": "jealousy",
+      "tooltip": ""
+    },
+    "lapdances": {
+      "label": "lapdances",
+      "tooltip": ""
+    },
+    "leather_clothing": {
+      "label": "Leather clothing",
+      "tooltip": ""
+    },
+    "leaving_visible_marks": {
+      "label": "Leaving Visible Marks",
+      "tooltip": ""
+    },
+    "licking": {
+      "label": "licking",
+      "tooltip": ""
+    },
+    "making_watching_erotic_videos_of_sub": {
+      "label": "Making / Watching erotic videos of sub",
+      "tooltip": ""
+    },
+    "masks_muzzles": {
+      "label": "masks/muzzles",
+      "tooltip": ""
+    },
+    "massages": {
+      "label": "massages",
+      "tooltip": ""
+    },
+    "milking_prostate_massage": {
+      "label": "Milking / Prostate Massage",
+      "tooltip": ""
+    },
+    "model_for_erotic_photos": {
+      "label": "Model for erotic photos",
+      "tooltip": ""
+    },
+    "mommy_kink": {
+      "label": "mommy kink",
+      "tooltip": ""
+    },
+    "monsterfucking": {
+      "label": "monsterfucking",
+      "tooltip": ""
+    },
+    "nipple_play": {
+      "label": "nipple play",
+      "tooltip": ""
+    },
+    "object_insertion": {
+      "label": "object insertion",
+      "tooltip": ""
+    },
+    "objectification_female": {
+      "label": "objectification - female",
+      "tooltip": ""
+    },
+    "objectification_male": {
+      "label": "objectification - male",
+      "tooltip": ""
+    },
+    "olfactophilia_scent_kink": {
+      "label": "olfactophilia (scent kink)",
+      "tooltip": ""
+    },
+    "open_relationships": {
+      "label": "open relationships",
+      "tooltip": ""
+    },
+    "oral_fixation": {
+      "label": "oral fixation",
+      "tooltip": ""
+    },
+    "orgy": {
+      "label": "Orgy",
+      "tooltip": ""
+    },
+    "overstimulation": {
+      "label": "overstimulation",
+      "tooltip": ""
+    },
+    "pantyhose_stockings": {
+      "label": "Pantyhose/Stockings",
+      "tooltip": ""
+    },
+    "period_sex": {
+      "label": "Period Sex",
+      "tooltip": ""
+    },
+    "pet_names": {
+      "label": "pet names",
+      "tooltip": ""
+    },
+    "piercings_body": {
+      "label": "piercings - body",
+      "tooltip": ""
+    },
+    "piercings_facial": {
+      "label": "piercings - facial",
+      "tooltip": ""
+    },
+    "piercings_genital": {
+      "label": "piercings - genital",
+      "tooltip": ""
+    },
+    "praise_appreciation": {
+      "label": "Praise / Appreciation",
+      "tooltip": ""
+    },
+    "pregnancy_female": {
+      "label": "pregnancy - female",
+      "tooltip": ""
+    },
+    "pregnancy_male_mpreg": {
+      "label": "pregnancy - male (mpreg)",
+      "tooltip": ""
+    },
+    "promiscuity": {
+      "label": "promiscuity",
+      "tooltip": ""
+    },
+    "prostitution": {
+      "label": "prostitution",
+      "tooltip": ""
+    },
+    "public_groping": {
+      "label": "public groping",
+      "tooltip": ""
+    },
+    "renaming": {
+      "label": "Renaming",
+      "tooltip": ""
+    },
+    "role_reversal": {
+      "label": "role reversal",
+      "tooltip": ""
+    },
+    "roleplay_adult_baby": {
+      "label": "roleplay - adult baby",
+      "tooltip": ""
+    },
+    "roleplay_ageplay": {
+      "label": "roleplay - ageplay",
+      "tooltip": ""
+    },
+    "roleplay_animal": {
+      "label": "roleplay - animal",
+      "tooltip": ""
+    },
+    "roleplay_hunter_prey": {
+      "label": "roleplay - hunter/prey",
+      "tooltip": ""
+    },
+    "roleplay_medical": {
+      "label": "roleplay - medical",
+      "tooltip": ""
+    },
+    "roleplay_teacher_student": {
+      "label": "roleplay - teacher/student",
+      "tooltip": ""
+    },
+    "scars": {
+      "label": "scars",
+      "tooltip": ""
+    },
+    "scene_debrief_discussion": {
+      "label": "Scene debrief / discussion",
+      "tooltip": ""
+    },
+    "sensory_sensation_play": {
+      "label": "sensory/sensation play",
+      "tooltip": ""
+    },
+    "servicing_a_group_gangbang_or_similar": {
+      "label": "Servicing a group (gangbang or similar)",
+      "tooltip": ""
+    },
+    "sex_tapes": {
+      "label": "sex tapes",
+      "tooltip": ""
+    },
+    "sexual_inexperience": {
+      "label": "sexual inexperience",
+      "tooltip": ""
+    },
+    "sharing_loaning_out": {
+      "label": "Sharing / Loaning Out",
+      "tooltip": ""
+    },
+    "shotgunning_sharing_smoke": {
+      "label": "shotgunning (sharing smoke)",
+      "tooltip": ""
+    },
+    "shower_bath": {
+      "label": "Shower / Bath",
+      "tooltip": ""
+    },
+    "size_difference": {
+      "label": "size difference",
+      "tooltip": ""
+    },
+    "size_kink": {
+      "label": "size kink",
+      "tooltip": ""
+    },
+    "sloppy_seconds": {
+      "label": "sloppy seconds",
+      "tooltip": ""
+    },
+    "smoking": {
+      "label": "smoking",
+      "tooltip": ""
+    },
+    "spitroasting": {
+      "label": "spitroasting",
+      "tooltip": ""
+    },
+    "stripping": {
+      "label": "stripping",
+      "tooltip": ""
+    },
+    "sugar_daddy": {
+      "label": "sugar daddy",
+      "tooltip": ""
+    },
+    "swapping_with_another_couple": {
+      "label": "Swapping with another couple",
+      "tooltip": ""
+    },
+    "tattoos": {
+      "label": "tattoos",
+      "tooltip": ""
+    },
+    "third_person_f_dominant_to_both": {
+      "label": "Third Person (F) Dominant  to Both",
+      "tooltip": ""
+    },
+    "third_person_f_dominant_to_sub_only": {
+      "label": "Third Person (F) Dominant to Sub only",
+      "tooltip": ""
+    },
+    "third_person_f_submissive_to_both": {
+      "label": "Third Person (F) Submissive to Both",
+      "tooltip": ""
+    },
+    "third_person_f_submissive_to_sub_only": {
+      "label": "Third Person (F) Submissive to Sub only",
+      "tooltip": ""
+    },
+    "third_person_m_dominant_to_both": {
+      "label": "Third Person (M) Dominant  to Both",
+      "tooltip": ""
+    },
+    "third_person_m_dominant_to_sub_only": {
+      "label": "Third Person (M) Dominant to Sub only",
+      "tooltip": ""
+    },
+    "third_person_m_submissive_to_both": {
+      "label": "Third Person (M) Submissive to Both",
+      "tooltip": ""
+    },
+    "third_person_m_submissive_to_sub_only": {
+      "label": "Third Person (M) Submissive to Sub only",
+      "tooltip": ""
+    },
+    "threesomes_fff": {
+      "label": "Threesomes (FFF)",
+      "tooltip": ""
+    },
+    "threesomes_ffm": {
+      "label": "Threesomes (FFM)",
+      "tooltip": ""
+    },
+    "threesomes_mmf": {
+      "label": "Threesomes (MMF)",
+      "tooltip": ""
+    },
+    "threesomes_mmm": {
+      "label": "Threesomes (MMM)",
+      "tooltip": ""
+    },
+    "titty_fucking": {
+      "label": "titty fucking",
+      "tooltip": ""
+    },
+    "traffic_light_system": {
+      "label": "traffic light system",
+      "tooltip": ""
+    },
+    "underwear": {
+      "label": "Underwear",
+      "tooltip": ""
+    },
+    "unrelated_talk": {
+      "label": "Unrelated talk",
+      "tooltip": ""
+    },
+    "virginity": {
+      "label": "virginity",
+      "tooltip": ""
+    },
+    "voyeurism_your_dom_w_others": {
+      "label": "Voyeurism (your Dom w/ others)",
+      "tooltip": ""
+    },
+    "watch_movie": {
+      "label": "Watch Movie",
+      "tooltip": ""
+    },
+    "watching_others_in_person_sex_shows": {
+      "label": "Watching others in person (sex shows)",
+      "tooltip": ""
+    },
+    "watching_porn": {
+      "label": "Watching Porn",
+      "tooltip": ""
+    },
+    "water_food": {
+      "label": "Water / Food",
+      "tooltip": ""
+    },
+    "wearing_masks": {
+      "label": "Wearing Masks",
+      "tooltip": ""
+    },
+    "weight_gain": {
+      "label": "weight gain",
+      "tooltip": ""
+    },
+    "wet_and_messy_fetish": {
+      "label": "wet & messy fetish",
+      "tooltip": ""
+    },
+    "wet_dreams": {
+      "label": "wet dreams",
+      "tooltip": ""
+    },
+    "wound_care": {
+      "label": "Wound Care",
+      "tooltip": ""
+    },
+    "xenophilia": {
+      "label": "xenophilia",
+      "tooltip": ""
+    },
+    "you_and_1_female": {
+      "label": "You and 1 female",
+      "tooltip": ""
+    },
+    "you_and_1_male": {
+      "label": "You and 1 male",
+      "tooltip": ""
+    },
+    "you_and_1_male_1_female": {
+      "label": "You and 1 male, 1 female",
+      "tooltip": ""
+    },
+    "you_and_2_females": {
+      "label": "You and 2 females",
+      "tooltip": ""
+    },
+    "you_and_2_males": {
+      "label": "You and 2 males",
+      "tooltip": ""
+    },
+    "you_and_ftm_trans": {
+      "label": "You and FtM trans",
+      "tooltip": ""
+    },
+    "you_and_mtf_trans": {
+      "label": "You and MtF trans",
+      "tooltip": ""
     }
   },
   "pain": {
@@ -835,17 +2663,13 @@
       "label": "Cutting",
       "tooltip": "The act of cutting a partner to cause pain in a sexual context."
     },
-    "snuff": {
-      "label": "Snuff",
-      "tooltip": "Murdering a character as part of sex."
-    },
     "face_slapping": {
       "label": "Face slapping",
       "tooltip": "The act of hitting someone in the face as a form of humiliation or excitement."
     },
     "punching": {
-      "label": "Stumps",
-      "tooltip": "The use of fist bumps as a form of sexual stimulation."
+      "label": "Punching",
+      "tooltip": "The act of punching as a form of sexual stimulation."
     },
     "clamps_labia_clit": {
       "label": "Clamps (labia/clitoris)",
@@ -866,6 +2690,286 @@
     "vampire_gloves": {
       "label": "Vampire gloves",
       "tooltip": "Special gloves with small metal spikes that prick the skin when touched."
+    },
+    "amputation": {
+      "label": "amputation",
+      "tooltip": ""
+    },
+    "asphyxiation_choking": {
+      "label": "Asphyxiation / Choking",
+      "tooltip": ""
+    },
+    "bastinado_foot_impact": {
+      "label": "Bastinado (foot impact)",
+      "tooltip": ""
+    },
+    "belts": {
+      "label": "Belts",
+      "tooltip": ""
+    },
+    "blood_as_lube": {
+      "label": "blood as lube",
+      "tooltip": ""
+    },
+    "blood_loss": {
+      "label": "blood loss",
+      "tooltip": ""
+    },
+    "bloodplay": {
+      "label": "bloodplay",
+      "tooltip": ""
+    },
+    "body_horror": {
+      "label": "body horror",
+      "tooltip": ""
+    },
+    "breath_control": {
+      "label": "Breath control",
+      "tooltip": ""
+    },
+    "broken_bones": {
+      "label": "broken bones",
+      "tooltip": ""
+    },
+    "bruises": {
+      "label": "bruises",
+      "tooltip": ""
+    },
+    "burns": {
+      "label": "burns",
+      "tooltip": ""
+    },
+    "canes": {
+      "label": "Canes",
+      "tooltip": ""
+    },
+    "choking": {
+      "label": "choking",
+      "tooltip": ""
+    },
+    "clitoral_vulvar_suction": {
+      "label": "Clitoral / vulvar suction",
+      "tooltip": ""
+    },
+    "clitoral_clip": {
+      "label": "Clitoral clip",
+      "tooltip": ""
+    },
+    "cock_and_ball_torture_cbt": {
+      "label": "cock & ball torture (CBT)",
+      "tooltip": ""
+    },
+    "cock_rings": {
+      "label": "cock rings",
+      "tooltip": ""
+    },
+    "cockwarming": {
+      "label": "cockwarming",
+      "tooltip": ""
+    },
+    "dislocation": {
+      "label": "dislocation",
+      "tooltip": ""
+    },
+    "electric_stimulation": {
+      "label": "electric stimulation",
+      "tooltip": ""
+    },
+    "electrocution": {
+      "label": "electrocution",
+      "tooltip": ""
+    },
+    "eye_trauma": {
+      "label": "eye trauma",
+      "tooltip": ""
+    },
+    "fear": {
+      "label": "fear",
+      "tooltip": ""
+    },
+    "fingernail_removal": {
+      "label": "fingernail removal",
+      "tooltip": ""
+    },
+    "flaying_skinning": {
+      "label": "flaying/skinning",
+      "tooltip": ""
+    },
+    "gagging": {
+      "label": "Gagging",
+      "tooltip": ""
+    },
+    "genital_mutilation": {
+      "label": "genital mutilation",
+      "tooltip": ""
+    },
+    "gore": {
+      "label": "gore",
+      "tooltip": ""
+    },
+    "hair_pulling": {
+      "label": "Hair pulling",
+      "tooltip": ""
+    },
+    "hairbrushes": {
+      "label": "Hairbrushes",
+      "tooltip": ""
+    },
+    "head_injury": {
+      "label": "head injury",
+      "tooltip": ""
+    },
+    "labial_clips": {
+      "label": "Labial clips",
+      "tooltip": ""
+    },
+    "labial_weights": {
+      "label": "Labial weights",
+      "tooltip": ""
+    },
+    "leather_paddles": {
+      "label": "Leather paddles",
+      "tooltip": ""
+    },
+    "leather_straps": {
+      "label": "Leather straps",
+      "tooltip": ""
+    },
+    "medical_experimentation": {
+      "label": "medical experimentation",
+      "tooltip": ""
+    },
+    "mental_torture": {
+      "label": "mental torture",
+      "tooltip": ""
+    },
+    "mouth_sewn_shut": {
+      "label": "mouth sewn shut",
+      "tooltip": ""
+    },
+    "needles": {
+      "label": "needles",
+      "tooltip": ""
+    },
+    "nipple_clips": {
+      "label": "Nipple clips",
+      "tooltip": ""
+    },
+    "nipple_suction_cups": {
+      "label": "Nipple suction cups",
+      "tooltip": ""
+    },
+    "nipple_weights": {
+      "label": "Nipple weights",
+      "tooltip": ""
+    },
+    "nullification_castration": {
+      "label": "nullification/castration",
+      "tooltip": ""
+    },
+    "pain_extreme": {
+      "label": "pain - extreme",
+      "tooltip": ""
+    },
+    "pain_moderate": {
+      "label": "pain - moderate",
+      "tooltip": ""
+    },
+    "pain_play": {
+      "label": "pain play",
+      "tooltip": ""
+    },
+    "painful_sex": {
+      "label": "painful sex",
+      "tooltip": ""
+    },
+    "poisoning": {
+      "label": "poisoning",
+      "tooltip": ""
+    },
+    "post_orgasm_torture": {
+      "label": "Post orgasm torture",
+      "tooltip": ""
+    },
+    "riding_crops": {
+      "label": "Riding crops",
+      "tooltip": ""
+    },
+    "riding_the_horse": {
+      "label": "Riding the horse",
+      "tooltip": ""
+    },
+    "self_asphyxiation": {
+      "label": "self-asphyxiation",
+      "tooltip": ""
+    },
+    "single_tail_whips": {
+      "label": "Single-tail whips",
+      "tooltip": ""
+    },
+    "slapping_face": {
+      "label": "slapping - face",
+      "tooltip": ""
+    },
+    "slapping_genitals": {
+      "label": "slapping - genitals",
+      "tooltip": ""
+    },
+    "starvation": {
+      "label": "starvation",
+      "tooltip": ""
+    },
+    "strapping_full_body_beating": {
+      "label": "Strapping (full body beating)",
+      "tooltip": ""
+    },
+    "suffocation_asphyxiation": {
+      "label": "suffocation/asphyxiation",
+      "tooltip": ""
+    },
+    "switches_from_branch_plant": {
+      "label": "Switches (from branch/plant)",
+      "tooltip": ""
+    },
+    "teeth_pulling": {
+      "label": "teeth pulling",
+      "tooltip": ""
+    },
+    "tongue_trauma_removal": {
+      "label": "tongue trauma/removal",
+      "tooltip": ""
+    },
+    "waterboarding": {
+      "label": "waterboarding",
+      "tooltip": ""
+    },
+    "waxplay": {
+      "label": "waxplay",
+      "tooltip": ""
+    },
+    "whipping": {
+      "label": "whipping",
+      "tooltip": ""
+    },
+    "whipping_breasts": {
+      "label": "Whipping breasts",
+      "tooltip": ""
+    },
+    "wooden_paddles": {
+      "label": "Wooden paddles",
+      "tooltip": ""
+    },
+    "woundfucking": {
+      "label": "woundfucking",
+      "tooltip": ""
+    },
+    "wounds_major": {
+      "label": "wounds - major",
+      "tooltip": ""
+    },
+    "wounds_minor": {
+      "label": "wounds - minor",
+      "tooltip": ""
     }
   },
   "medium": {
@@ -976,6 +3080,86 @@
     "egyptian": {
       "label": "Egyptian",
       "tooltip": "Role-playing scenarios with ancient Egyptian themes, such as pharaohs, Cleopatra, gods and mythology."
+    },
+    "age_play_treating_as_younger": {
+      "label": "Age Play (treating as younger)",
+      "tooltip": ""
+    },
+    "blackmail": {
+      "label": "Blackmail",
+      "tooltip": ""
+    },
+    "cnc": {
+      "label": "CNC",
+      "tooltip": ""
+    },
+    "cosplay": {
+      "label": "Cosplay",
+      "tooltip": ""
+    },
+    "cutting_tearing_off_clothes": {
+      "label": "Cutting/tearing off clothes",
+      "tooltip": ""
+    },
+    "fantasy_abandonment": {
+      "label": "Fantasy Abandonment",
+      "tooltip": ""
+    },
+    "gang_bang": {
+      "label": "Gang bang",
+      "tooltip": ""
+    },
+    "hypnosis": {
+      "label": "Hypnosis",
+      "tooltip": ""
+    },
+    "impregnation_breeding": {
+      "label": "Impregnation / Breeding",
+      "tooltip": ""
+    },
+    "initiation_rites": {
+      "label": "Initiation rites",
+      "tooltip": ""
+    },
+    "interrogation": {
+      "label": "Interrogation",
+      "tooltip": ""
+    },
+    "lecturing_for_misbehaviors": {
+      "label": "Lecturing for Misbehaviors",
+      "tooltip": ""
+    },
+    "outdoor_scenes": {
+      "label": "Outdoor scenes",
+      "tooltip": ""
+    },
+    "pet_play_treating_as_pet": {
+      "label": "Pet Play (treating as pet)",
+      "tooltip": ""
+    },
+    "praise_kink": {
+      "label": "Praise kink",
+      "tooltip": ""
+    },
+    "secretary": {
+      "label": "Secretary",
+      "tooltip": ""
+    },
+    "serving_as_maid": {
+      "label": "Serving as maid",
+      "tooltip": ""
+    },
+    "slave_auction": {
+      "label": "Slave Auction",
+      "tooltip": ""
+    },
+    "sleep_deprivation": {
+      "label": "Sleep deprivation",
+      "tooltip": ""
+    },
+    "vampire_werewolf": {
+      "label": "Vampire/Werewolf",
+      "tooltip": ""
     }
   }
 }

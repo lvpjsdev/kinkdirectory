@@ -37,18 +37,16 @@ src/
   composables/         — useKinkList.ts (core state), useKinkListMigration.ts, useScreenshot.ts, useSettings.ts
   components/          — KinkListView.vue (main), kinklist/* (subcomponents)
   i18n/index.ts        — vue-i18n setup, imports all locales
-  locales/*.json       — translation files (nl.json is the source of truth)
+  locales/*.json       — translation files (en.json and ru.json)
   locales-csv/         — CSV exports for translation workflow
   scripts/             — standalone helper scripts (separate package.json, run with tsx)
 ```
 
 ## Localization workflow
 
-- **Source language is Dutch (`nl.json`)**. Write all user-facing strings there.
-- Other languages are auto-translated from Dutch using `json-autotranslate`.
-- `yarn translate` runs the auto-translate (uses a config in `402.json`, gitignored).
-- Translation keys use dot notation. Kink names live under `kinks.<category>.<kink_id>`.
-- When adding a new kink, add its translation key to `nl.json` first, then run translate.
+- **Two languages: English (`en.json`) and Russian (`ru.json`)**.
+- Russian translations may be incomplete — the app falls back to English for missing keys.
+- Translation keys use dot notation. Kink names are nested under category keys (e.g., `pain.spanking`).
 - ESLint ignores `src/locales/**` and `src/scripts/**`.
 
 ## Kink data model
