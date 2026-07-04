@@ -1,2 +1,18 @@
 @import "tailwindcss";
 @import "@nuxt/ui";
+
+/* Telegram Mini App theme variables */
+:root {
+  --tg-bg-color: transparent;
+  --tg-text-color: inherit;
+  --tg-hint-color: inherit;
+  --tg-link-color: inherit;
+  --tg-button-color: inherit;
+  --tg-button-text-color: inherit;
+  --tg-secondary-bg-color: transparent;
+  --tg-accent-text-color: inherit;
+  --tg-section-bg-color: transparent;
+  --tg-section-header-text-color: inherit;
+  --tg-subtitle-text-color: inherit;
+  --tg-destructive-text-color: inherit;
+}
