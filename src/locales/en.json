@@ -19,6 +19,8 @@
     "export_list": "Export list",
     "share_list": "Share list",
     "share_link": "Share Link",
+    "share_via_telegram": "Share via Telegram",
+    "share_telegram_text": "Check out my kink list:",
     "view_only": "View Only",
     "share_info_text": "Share your list with others by sending them this unique link. Anyone with this link can view your list in read-only mode.",
     "share_privacy_note": "Only people with this exact link can access your list. No login is required to view shared lists.",
