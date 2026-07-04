@@ -31,6 +31,12 @@ function copyShareUrl() {
   }, 1000)
 }
 
+function shareViaTelegram() {
+  const text = encodeURIComponent(t('app.share_telegram_text'))
+  const url = encodeURIComponent(props.url)
+  window.open(`https://t.me/share/url?url=${url}&text=${text}`, '_blank')
+}
+
 function handleCancel() {
   emit('close', false)
 }
@@ -86,8 +92,8 @@ function handleCancel() {
           </div>
         </div>
 
-        <!-- Copy Button -->
-        <div class="flex justify-center">
+        <!-- Share Buttons -->
+        <div class="flex flex-col sm:flex-row justify-center gap-3">
           <UButton
             size="md"
             icon="i-lucide-copy"
@@ -97,6 +103,15 @@ function handleCancel() {
             @click="copyShareUrl"
           >
             {{ copied ? t('app.copied') : t('app.copy_link') }}
+          </UButton>
+          <UButton
+            size="md"
+            icon="i-lucide-send"
+            variant="soft"
+            color="primary"
+            @click="shareViaTelegram"
+          >
+            {{ t('app.share_via_telegram') }}
           </UButton>
         </div>
       </div>
