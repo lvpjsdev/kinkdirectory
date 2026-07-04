@@ -9,30 +9,40 @@ import { useTelegram } from './composables/useTelegram'
 const { viewListFromUrl } = useKinkListState()
 const toast = useToast()
 const { t } = useI18n()
-const { isTelegram, expand, getThemeParams } = useTelegram()
+const { isTelegram, expand, ready, getThemeParams } = useTelegram()
+
+const THEME_VAR_MAP: Record<string, string> = {
+  bg_color: '--tg-bg-color',
+  text_color: '--tg-text-color',
+  hint_color: '--tg-hint-color',
+  link_color: '--tg-link-color',
+  button_color: '--tg-button-color',
+  button_text_color: '--tg-button-text-color',
+  secondary_bg_color: '--tg-secondary-bg-color',
+  accent_text_color: '--tg-accent-text-color',
+  section_bg_color: '--tg-section-bg-color',
+  section_header_text_color: '--tg-section-header-text-color',
+  subtitle_text_color: '--tg-subtitle-text-color',
+  destructive_text_color: '--tg-destructive-text-color',
+}
 
 function applyTelegramTheme() {
   const params = getThemeParams()
-  if (!params) return
+  if (!params)
+    return
 
   const root = document.documentElement
-  if (params.bg_color) root.style.setProperty('--tg-bg-color', params.bg_color)
-  if (params.text_color) root.style.setProperty('--tg-text-color', params.text_color)
-  if (params.hint_color) root.style.setProperty('--tg-hint-color', params.hint_color)
-  if (params.link_color) root.style.setProperty('--tg-link-color', params.link_color)
-  if (params.button_color) root.style.setProperty('--tg-button-color', params.button_color)
-  if (params.button_text_color) root.style.setProperty('--tg-button-text-color', params.button_text_color)
-  if (params.secondary_bg_color) root.style.setProperty('--tg-secondary-bg-color', params.secondary_bg_color)
-  if (params.accent_text_color) root.style.setProperty('--tg-accent-text-color', params.accent_text_color)
-  if (params.section_bg_color) root.style.setProperty('--tg-section-bg-color', params.section_bg_color)
-  if (params.section_header_text_color) root.style.setProperty('--tg-section-header-text-color', params.section_header_text_color)
-  if (params.subtitle_text_color) root.style.setProperty('--tg-subtitle-text-color', params.subtitle_text_color)
-  if (params.destructive_text_color) root.style.setProperty('--tg-destructive-text-color', params.destructive_text_color)
+  for (const [key, cssVar] of Object.entries(THEME_VAR_MAP)) {
+    const value = params[key as keyof typeof params]
+    if (value)
+      root.style.setProperty(cssVar, value)
+  }
 }
 
 // Check for list parameter in URL
 onMounted(() => {
   if (isTelegram) {
+    ready()
     expand()
     applyTelegramTheme()
   }
