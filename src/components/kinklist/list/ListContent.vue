@@ -149,7 +149,7 @@ const progress = computed(() => {
       <template #footer>
         <div class="flex justify-end">
           <UButton color="primary" @click="closeKinkModal">
-            Close
+            {{ t('app.close') }}
           </UButton>
         </div>
       </template>
