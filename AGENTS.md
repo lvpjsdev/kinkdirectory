@@ -59,7 +59,8 @@ src/
 
 ## Communication
 
-- **Use Russian** when communicating with the user. Code comments, commit messages, and PR descriptions stay in English.
+- **Reply to the user in Russian, always** — every response, question, plan, and explanation, with no exceptions.
+- Code, code comments, commit messages, PR descriptions, identifiers, and file contents stay in English.
 
 ## Key conventions
 
